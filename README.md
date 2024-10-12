@@ -1,6 +1,6 @@
 <!-- Banner Section with Animated GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsXj6dN1uXoZOE/giphy.gif" alt="Welcome to my GitHub!" style="width: 100%; max-width: 800px; border-radius: 10px;" />
+  <img src="https://imgur.com/khpDPwR.png" alt="Welcome to my GitHub!" style="width: 100%; max-width: 800px; border-radius: 10px;" />
 </p>
 
 <!-- Introduction -->
@@ -36,8 +36,8 @@
 <div align="center">
   <h2>👋 About Me</h2>
   <p>
-    Hello, I'm **Wick**! <br/>
-    I speak **Arabic**, **English**, and **Turkish**. <br/><br/>
+    Hello, I'm Wick CEO of Wick Studio <br/>
+    I speak Arabic, English, and Turkish. <br/><br/>
     I'm passionate about crafting innovative solutions, safeguarding the digital domain, and contributing to open-source projects. I love diving deep into code and bringing imaginative ideas to life. Let's collaborate and create something extraordinary together!
   </p>
 </div>
@@ -127,8 +127,7 @@
 <div align="center">
   <h2>🚀 Current Projects</h2>
   <p>
-    <!-- Replace with actual project links or descriptions -->
-    Working on enhancing the Discord AI Chatbot with new features and improving System Information tools.
+    Working on enhancing the wicksbot.com and wick-hosting.
   </p>
 </div>
 
@@ -136,7 +135,7 @@
 <div align="center">
   <h2>📫 Contact Me</h2>
   <p>
-    Feel free to reach out via any of the platforms above or email me at <a href="mailto:wickstudio@example.com">wickstudio@example.com</a>
+    Feel free to reach out via any of the platforms above or email me at <a href="mailto:wick@wick-studio.com">wick@wick-studio.com</a>
   </p>
 </div>
 
@@ -146,9 +145,6 @@
   <p>
     <a href="https://github.com/wickstudio">
       <img src="https://img.shields.io/github/followers/wickstudio?label=Follow&style=social" alt="GitHub Follow"/>
-    </a>
-    <a href="https://www.linkedin.com/in/wickstudio">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"/>
     </a>
     <a href="https://www.buymeacoffee.com/wickstudio">
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat" alt="Buy Me a Coffee"/>
