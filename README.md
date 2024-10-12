@@ -19,6 +19,12 @@
     <a href="https://www.buymeacoffee.com/wickstudio" target="_blank">
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat" alt="Buy Me a Coffee"/>
     </a>
+    <a href="https://www.linkedin.com/in/wickstudio" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/Wick__Studio" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/Wick__Studio?style=social" alt="Twitter Follow"/>
+    </a>
   </p>
 </div>
 
@@ -37,7 +43,7 @@
     <img src="https://imgur.com/23o6vBG.png" alt="Git" title="Git" width="50" height="50"/>
     <img src="https://imgur.com/5GBBmDh.png" alt="VS Code" title="Visual Studio Code" width="50" height="50"/>
     <img src="https://imgur.com/7RTXlBW.png" alt="Shell" title="Shell" width="50" height="50"/>
-    <img src="https://imgur.com/LANG_ICON.png" alt="New Tool" title="New Tool" width="50" height="50"/> <!-- Example for adding more tools -->
+    <!-- Add more tools as needed -->
   </p>
 </div>
 
@@ -130,22 +136,17 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wickstudio&theme=dracula" alt="Profile Details" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wickstudio&theme=dracula" alt="Most Commit Language" />
   </p>
+  <p>
+    <img src="https://activity-graph.herokuapp.com/graph?username=wickstudio&theme=react-dark" alt="GitHub Activity Graph" />
+  </p>
 </div>
 
 <!-- Current Projects -->
 <div align="center">
   <h2>🚀 Current Projects</h2>
   <p>
-    - **wicksbot.com**: Enhancing the features and scalability of our Discord bot platform.<br/>
-    - **wick-hosting**: Developing robust and secure hosting solutions for various applications.
-  </p>
-</div>
-
-<!-- Contact Me -->
-<div align="center">
-  <h2>📫 Contact Me</h2>
-  <p>
-    Feel free to reach out via any of the platforms above or email me at <a href="mailto:wick@wick-studio.com">wick@wick-studio.com</a>
+    - **[wicksbot.com](https://wicksbot.com)**: Enhancing the features and scalability of our Discord bot platform.<br/>
+    - **[wick-hosting](https://wick-hosting.com)**: Developing robust and secure hosting solutions for various applications.
   </p>
 </div>
 
@@ -155,7 +156,33 @@
   <p>
     - I love gaming and often unwind with the latest titles.<br/>
     - Avid Photoshop enthusiast, always experimenting with new designs.<br/>
-    - Passionate about learning new languages and exploring different cultures.
+    - Passionate about learning new languages and exploring different cultures.<br/>
+    - Coffee addict ☕️ and always ready for a coding challenge!
+  </p>
+  <img src="https://media.giphy.com/media/3o7TKsXj6dN1uXoZOE/giphy.gif" alt="Fun GIF" width="200"/>
+</div>
+
+<!-- Testimonials or Quotes -->
+<div align="center">
+  <h2>💬 Testimonials</h2>
+  <blockquote style="font-style: italic;">
+    "Wick is an exceptional developer with a keen eye for detail and a passion for creating innovative solutions." - **Happy Collaborator**
+  </blockquote>
+</div>
+
+<!-- Portfolio Link -->
+<div align="center">
+  <h2>📁 Portfolio</h2>
+  <p>
+    Check out my [Portfolio Website](https://wickstudio.com) to see more of my work and projects.
+  </p>
+</div>
+
+<!-- Contact Me -->
+<div align="center">
+  <h2>📫 Contact Me</h2>
+  <p>
+    Feel free to reach out via any of the platforms above or email me at <a href="mailto:wick@wick-studio.com">wick@wick-studio.com</a>
   </p>
 </div>
 
@@ -174,6 +201,9 @@
     </a>
     <a href="https://twitter.com/Wick__Studio" target="_blank">
       <img src="https://img.shields.io/twitter/follow/Wick__Studio?style=social" alt="Twitter Follow"/>
+    </a>
+    <a href="https://wickstudio.com/resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/View%20Resume-0077B5?style=flat&logo=AdobeAcrobat&logoColor=white" alt="View Resume"/>
     </a>
   </p>
 </div>
